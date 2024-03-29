@@ -321,7 +321,7 @@ def update_apk_name():
         line = file.readline()
 
     # 判断当前字典库类别
-    if line == "Phone":
+    if line == "Phone" or line == "Fold":
         # 如果第二个词典文件存在，则读取其中的内容
         if os.path.exists(APK_APP_NAME):
             with open(APK_APP_NAME, 'r') as f:
