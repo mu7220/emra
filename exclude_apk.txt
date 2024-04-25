@@ -10,6 +10,7 @@ DeviceInfoQR.apk
 EidService.apk
 FidoAuthen.apk
 FidoAuthen2.apk
+FmServiceMtk.apk
 GeoLocation.apk
 GmsCore.apk
 GoogleExtShared.apk
@@ -40,6 +41,7 @@ MiTrustService.apk
 MiVoiceOpti.apk
 MiuiSecCamService.apk
 ModuleMetadata.apk
+MtkWallpaperPicker.apk
 Music.apk
 Nfc_st.apk
 NQNfcNci-v1.apk
@@ -53,6 +55,7 @@ RegService.apk
 RideModeAudio.apk
 RtkManager.apk
 SecurityOnetrackService.apk
+SensorTestTool.apk
 SettingsIntelligence.apk
 SmartHome.apk
 SmartHomePlus.apk

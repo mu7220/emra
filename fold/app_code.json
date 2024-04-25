@@ -13,7 +13,7 @@
     "com.android.quicksearchbox": 20230909,
     "com.android.soundrecorder": 500179,
     "com.android.thememanager": 4226,
-    "com.android.updater": 847,
+    "com.android.updater": 848,
     "com.baidu.input_mi": 4366,
     "com.duokan.phone.remotecontroller": 6353,
     "com.iflytek.inputmethod.miui": 8132,
@@ -38,7 +38,7 @@
     "com.miui.gallery": 405520,
     "com.miui.greenguard": 920231123,
     "com.miui.guardprovider": 209,
-    "com.miui.home": 439147947,
+    "com.miui.home": 439148007,
     "com.miui.huanji": 42300,
     "com.miui.hybrid": 11030907,
     "com.miui.maintenancemode": 14,
@@ -48,7 +48,7 @@
     "com.miui.miservice": 15000002,
     "com.miui.mishare.connectivity": 22105,
     "com.miui.misound": 240118,
-    "com.miui.miwallpaper": 500325000,
+    "com.miui.miwallpaper": 500327000,
     "com.miui.newmidrive": 112000607,
     "com.miui.nextpay": 1420,
     "com.miui.notes": 724,
@@ -61,7 +61,7 @@
     "com.miui.screenshot": 10400103,
     "com.miui.securityadd": 91158,
     "com.miui.securitycenter": 40000883,
-    "com.miui.securitycore": 40000121,
+    "com.miui.securitycore": 40000123,
     "com.miui.securityinputmethod": 327,
     "com.miui.securitymanager": 10,
     "com.miui.themestore": 12,
@@ -104,5 +104,5 @@
     "com.xiaomi.vipaccount": 230615,
     "com.xiaomi.xaee": 2,
     "com.xiaomi.xmsf": 70000001,
-    "miui.systemui.plugin": 150023900
+    "miui.systemui.plugin": 150026500
 }
